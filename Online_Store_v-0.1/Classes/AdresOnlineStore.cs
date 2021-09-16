@@ -10,7 +10,6 @@ namespace Online_Store_v_0._1
 
         public AdresOnlineStore()
         {
-
         }
 
         public AdresOnlineStore(string _Country, string _City, string _Street, string _PostalCode)

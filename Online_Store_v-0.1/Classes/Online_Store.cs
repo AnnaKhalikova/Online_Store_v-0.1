@@ -42,19 +42,16 @@ namespace Online_Store_v_0._1
 
         public void PhoneDisplayInfo(Phone phone) // Для одного телефона
         {
-            Console.WriteLine($"Модель телефона: " + phone.Model +
-                " / Память : " + phone.PhoneMemory + " ГБ" +
-                " / Цвет: " + phone.Color +
-                " / Артикул: " + phone.PhoneVendorCode +
-                " / Цена: " + phone.Price + " BYN");
+            Console.WriteLine(phone.ToString());
         }
 
         public void DisplayInfoAboutAllPhones() // Для всех телефонов
         {
             foreach (Phone phone in ListOfPhones)
             {
-                PhoneDisplayInfo(phone);
+                Console.WriteLine(phone.ToString());
             }
         }
     }
 }
+

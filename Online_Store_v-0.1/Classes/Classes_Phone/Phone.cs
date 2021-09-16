@@ -12,7 +12,6 @@ namespace Online_Store_v_0._1
 
         public Phone()
         {
-
         }
 
         public Phone(PhoneModel _Model, int _PhoneMemory, PhoneСolor _Color, string _PhoneVendorCode, double _Price)
@@ -23,15 +22,6 @@ namespace Online_Store_v_0._1
             PhoneVendorCode = _PhoneVendorCode;
             Price = _Price;
         }
-
-        //public void PhoneDisplayInfo()
-        //{
-        //    Console.WriteLine($"Модель телефона: " + Model +
-        //        " / Память : " + PhoneMemory + " ГБ" +
-        //        " / Цвет: " + Color +
-        //        " / Артикул: " + PhoneVendorCode +
-        //        " / Цена: " + Price + " BYN");
-        //}
 
         public override string ToString()
         {

@@ -20,18 +20,18 @@ namespace Online_Store_v_0._1
             BuyerPhoneNumber = _BuyerPhoneNumber;
             СardCurrency = _СardCurrency;
             BuyerСart = _BuyerСart;
-
         }
 
         public void BuyerDisplayInfo()
         {
             Console.WriteLine($"Имя покупателя: {BuyerName} \nНомер телефона: {BuyerPhoneNumber}");
         }
-        //информация о одном товаре в корзине
+
+        // информация о одном товаре в корзине
         public void BuyerСartDisplayInfo()
         {
             Console.WriteLine("Корзина покупателя: ");
-            ((Phone)BuyerСart[0]).PhoneDisplayInfo();
+            Console.WriteLine(((Phone)BuyerСart[0]).ToString());
         }
 
         // информация о всех товарах в корзине
@@ -41,7 +41,7 @@ namespace Online_Store_v_0._1
 
             foreach (Phone phone in BuyerСart)
             {
-                phone.PhoneDisplayInfo();
+                Console.WriteLine(phone.ToString());
             }
         }
     }

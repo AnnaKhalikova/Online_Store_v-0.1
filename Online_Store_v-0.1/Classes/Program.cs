@@ -78,14 +78,14 @@ namespace Online_Store_v_0._1
             {
                 foreach (Phone phone in GetSortFromMinToMaxPrice(phones))
                 {
-                    phone.ToString();
+                    Console.WriteLine(phone.ToString());
                 }
             }
             else
             {
                 foreach (Phone phone in GetSortFromMaxToMinPrice(phones))
                 {
-                    phone.ToString();
+                    Console.WriteLine(phone.ToString());
                 }
             }
 
@@ -102,8 +102,6 @@ namespace Online_Store_v_0._1
 
             buyer.DisplayInfoAboutAllBuyerCart();
             //buyer.BuyerСartDisplayInfo();
-
-            //Console.WriteLine($"Kоличество товаров в корзине: {buyerСart.Count}");
 
             double result = 0.0;
 
