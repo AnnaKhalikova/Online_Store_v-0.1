@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{1EB5B8E6-039F-4B9F-B989-ABE06371F584}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Online_Store_v-0.1/Classes/Buyer.cs">
+    <Files>
+      <File FileName="Online_Store_v-0.1/Classes/Phone.cs" Line="1" Column="14" />
+      <File FileName="Online_Store_v-0.1/Classes/Program.cs" Line="33" Column="16" />
+      <File FileName="Online_Store_v-0.1/Classes/Buyer.cs" Line="46" Column="10" />
+      <File FileName="Online_Store_v-0.1/Classes/BuyerCart.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Online_Store_v-0.1" expanded="True">
+            <Node name="Online_Store_v-0.1" expanded="True">
+              <Node name="Classes" expanded="True">
+                <Node name="Buyer.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Online__Store__v-0.1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

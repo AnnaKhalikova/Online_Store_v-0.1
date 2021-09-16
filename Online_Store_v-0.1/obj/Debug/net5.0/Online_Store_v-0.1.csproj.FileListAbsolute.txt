@@ -1,0 +1,15 @@
+/Users/macbookpro/Desktop/Online_Store_v-0.1/Online_Store_v-0.1/bin/Debug/net5.0/Online_Store_v-0.1.deps.json
+/Users/macbookpro/Desktop/Online_Store_v-0.1/Online_Store_v-0.1/bin/Debug/net5.0/Online_Store_v-0.1.runtimeconfig.json
+/Users/macbookpro/Desktop/Online_Store_v-0.1/Online_Store_v-0.1/bin/Debug/net5.0/Online_Store_v-0.1.runtimeconfig.dev.json
+/Users/macbookpro/Desktop/Online_Store_v-0.1/Online_Store_v-0.1/bin/Debug/net5.0/Online_Store_v-0.1.dll
+/Users/macbookpro/Desktop/Online_Store_v-0.1/Online_Store_v-0.1/bin/Debug/net5.0/ref/Online_Store_v-0.1.dll
+/Users/macbookpro/Desktop/Online_Store_v-0.1/Online_Store_v-0.1/bin/Debug/net5.0/Online_Store_v-0.1.pdb
+/Users/macbookpro/Desktop/Online_Store_v-0.1/Online_Store_v-0.1/obj/Debug/net5.0/Online_Store_v-0.1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/Desktop/Online_Store_v-0.1/Online_Store_v-0.1/obj/Debug/net5.0/Online_Store_v-0.1.AssemblyInfoInputs.cache
+/Users/macbookpro/Desktop/Online_Store_v-0.1/Online_Store_v-0.1/obj/Debug/net5.0/Online_Store_v-0.1.AssemblyInfo.cs
+/Users/macbookpro/Desktop/Online_Store_v-0.1/Online_Store_v-0.1/obj/Debug/net5.0/Online_Store_v-0.1.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Desktop/Online_Store_v-0.1/Online_Store_v-0.1/obj/Debug/net5.0/Online_Store_v-0.1.dll
+/Users/macbookpro/Desktop/Online_Store_v-0.1/Online_Store_v-0.1/obj/Debug/net5.0/ref/Online_Store_v-0.1.dll
+/Users/macbookpro/Desktop/Online_Store_v-0.1/Online_Store_v-0.1/obj/Debug/net5.0/Online_Store_v-0.1.pdb
+/Users/macbookpro/Desktop/Online_Store_v-0.1/Online_Store_v-0.1/obj/Debug/net5.0/Online_Store_v-0.1.genruntimeconfig.cache
+/Users/macbookpro/Desktop/Online_Store_v-0.1/Online_Store_v-0.1/obj/Debug/net5.0/Online_Store_v-0.1.csproj.AssemblyReference.cache
