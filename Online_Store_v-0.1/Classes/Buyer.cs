@@ -8,7 +8,7 @@ namespace Online_Store_v_0._1
         public string BuyerName;
         public string BuyerPhoneNumber;
         public bool СardCurrency;
-        public ArrayList BuyerСart;
+        public ArrayList BuyerСart;//Лучше вот это поле сделать типа BuyerCart, а не ArrayList, т.к. мы создали класс пользовательской корзины не просто так, а чтобы он представлял собой коллекцию
 
         public Buyer()
         {
@@ -26,7 +26,8 @@ namespace Online_Store_v_0._1
         {
             Console.WriteLine($"Имя покупателя: {BuyerName} \nНомер телефона: {BuyerPhoneNumber}");
         }
-
+        
+        //Соотв. все вот эти методы работы с корзиной должны быть внутри класса корзины
         // информация о одном товаре в корзине
         public void BuyerСartDisplayInfo()
         {
